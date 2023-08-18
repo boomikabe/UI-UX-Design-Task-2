@@ -1,27 +1,33 @@
-![image](https://github.com/boomikabe/UI-UX-Design-Task-1/assets/141221902/45af18b9-7b7a-4ebf-8504-f609bb5059f4)# UI/UX Design Task 1
-
-This repository contains the UI/UX design for a login and sign-up flow created using Figma.
-
-## Design Overview
-Welcome to the UI/UX design project for a modern login and sign-up flow, developed using Figma. This project focuses on creating a seamless and intuitive user experience for onboarding new users and allowing existing users to access the app effortlessly. The design employs a user-centered approach to ensure that the process is both visually appealing and user-friendly.
+# UI-UX-Design-Task-2
+This provides a comprehensive look at the content and purpose of your weekly newsletter, showcasing the excitement of new features while emphasizing user engagement and customization.
 
 ## Design Screenshots
-![Login Page]("E:\task2.png")
+![View Image]("E:\task2.png")
 
-## Tools Used
+Figma: [Link to Figma](https://www.figma.com/file/r68cdp9GklDpES8gUsu3Pz/CodSoft-Task-2?type=design&node-id=0%3A1&mode=design&t=IDTBFXp30RYFZ0k1-1)
 
-- Figma: [Link to Figma](https://www.figma.com/file/gUUh1Hs0lzlBDhHtNJfptk/CodSoft-Task1?type=design&node-id=0%3A1&mode=design&t=IDTBFXp30RYFZ0k1-1)
-- The design was created using Figma, a versatile design and prototyping tool. Figma's collaborative features allowed for efficient teamwork and iterative design improvements.
+# Weekly Newsletter
 
-## Key Features
-The design encompasses the following key features:
+Stay Updated with Our Weekly Newsletter!
 
-- Welcome Screen: Users are greeted with a welcoming screen that sets the tone for their interaction with the app.
+## New Releases
 
-- Sign-Up Process: New users are guided through a step-by-step sign-up process, allowing them to create an account seamlessly.
+Check out our amazing new features and updates:
 
-- Login Options: Existing users have the option to log in using their email or via social networks, ensuring accessibility and flexibility.
+### Timer
 
-- Password Recovery: A "Forgot Password?" link provides a straightforward route for users to reset their passwords if needed.
+A handy timer feature to help you keep track of time.
 
-- Visual Consistency: The design maintains a consistent color palette, typography, and visual style across all screens for a cohesive user experience.
+### Measure Tool
+
+Introducing the Measure Tool for precise measurements and calculations.
+
+### Slider
+
+Explore the new Slider functionality for enhanced user interactions.
+
+### Users
+
+Connect and collaborate with other users seamlessly.
+
+
