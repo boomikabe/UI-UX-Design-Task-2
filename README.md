@@ -2,7 +2,7 @@
 This provides a comprehensive look at the content and purpose of your weekly newsletter, showcasing the excitement of new features while emphasizing user engagement and customization.
 
 ## Design Screenshots
-![View Image]("E:\task2.png")
+![View Now]("E:\task2.png")
 
 Figma: [Link to Figma](https://www.figma.com/file/r68cdp9GklDpES8gUsu3Pz/CodSoft-Task-2?type=design&node-id=0%3A1&mode=design&t=IDTBFXp30RYFZ0k1-1)
 
